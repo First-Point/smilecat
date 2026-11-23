@@ -1,0 +1,26 @@
+{
+  "name": "SmileCat",
+  "storeName": {
+    "ios": "SmileCat: Aligner Tracker",
+    "android": "SmileCat: Aligner Tracker"
+  },
+  "developer": {
+    "name": "First Point",
+    "legalName": "First Point Yazılım Limited Şirketi",
+    "url": "https://firstpoint.com.tr",
+    "github": "https://github.com/First-Point"
+  },
+  "platforms": ["ios", "android"],
+  "category": "Health & Fitness",
+  "price": "free with optional SmileCat Plus subscription or lifetime purchase",
+  "stores": {
+    "appStore": "https://apps.apple.com/app/id6808622619",
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.smilecat.alignertracker"
+  },
+  "website": "https://firstpoint.com.tr/apps/smilecat",
+  "privacyPolicy": "https://firstpoint.com.tr/apps/smilecat/privacy",
+  "terms": "https://firstpoint.com.tr/apps/smilecat/terms",
+  "accessibility": "https://firstpoint.com.tr/apps/smilecat/accessibility",
+  "support": "mailto:contact@firstpoint.com.tr",
+  "updated": "2026-11-23"
+}
